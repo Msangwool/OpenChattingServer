@@ -30,25 +30,21 @@ char[] 를 이용하여 헤더를 구성하지는 않았습니다. 이후에는 
 
 ## Group Chatting
 
-
-https://github.com/Msangwool/OpenChattingClient/assets/97933061/3e92f66e-82de-48e2-b4bf-66bf1411bca5
-
+https://github.com/Msangwool/OpenChattingServer/assets/97933061/01929dc5-ebb7-4f7d-9fa3-38c1d2f94a14
 
 
 ## Open Chatting
 
-
-https://github.com/Msangwool/OpenChattingClient/assets/97933061/d042f04e-88a7-4ac9-a9ff-024543bd0775
-
+https://github.com/Msangwool/OpenChattingServer/assets/97933061/e54b6ca7-1180-4707-89b8-529837a97f9d
 
 
 ## Random Chatting
 
+https://github.com/Msangwool/OpenChattingServer/assets/97933061/d66026ab-59e4-42ba-92f6-ef392a94c2a5
 
-https://github.com/Msangwool/OpenChattingClient/assets/97933061/d8c13639-26a0-4f3f-a11c-f061285ae8f3
 
 코드에 대한 자세한 내용은 Blog에 작성해 놓았습니다. <br>
-Notion : https://gratis-somersault-5bf.notion.site/OpenChatting-Protocol-8acd30fb6d5a4fba9e1cc89d8322ef4f?pvs=4
+Velog : https://velog.io/@tkddnwkdb/OpenChattingProtocol
 <br>
 
 OpenChattingServer : https://github.com/Msangwool/OpenChattingClient
