@@ -47,4 +47,4 @@ https://github.com/Msangwool/OpenChattingServer/assets/97933061/d66026ab-59e4-42
 Velog : https://velog.io/@tkddnwkdb/OpenChattingProtocol
 <br>
 
-OpenChattingServer : https://github.com/Msangwool/OpenChattingClient
+OpenChattingClient : https://github.com/Msangwool/OpenChattingClient
